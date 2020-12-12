@@ -20,6 +20,10 @@ html {
   -ms-overflow-style: scrollbar;
 }
 
+.wp_button{
+  position: relative;
+}
+
 *,
 *::before,
 *::after {
