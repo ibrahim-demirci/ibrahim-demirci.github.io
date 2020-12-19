@@ -429,7 +429,7 @@ p, address {
 }
 
 .tm-paging-link {
-  padding: 10px 30px;
+  padding: 10px 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -440,7 +440,7 @@ p, address {
 
 .tm-paging-link.active,
 .tm-paging-link:hover {
-  background-color: #2F956D;
+  background-color: #512B10;
   color: white;
 }
 
