@@ -132,9 +132,11 @@ html {
 
 .video{
  
+ margin-left : auto;
+ margin-right : auto;
  padding-right: 15px;
  padding-left: 15px;
- padding-bottom 30px;
+ margin-bottom : 50px;
  
  
 }
