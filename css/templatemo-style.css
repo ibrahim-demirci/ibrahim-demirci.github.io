@@ -328,7 +328,7 @@ p, address {
 
 .tm-section-title {
   font-size: 2rem;
-  font-weight: 400;
+  font-weight: bold;
   margin-bottom: 30px;
   color : #B0733D;
 }
@@ -401,7 +401,7 @@ p, address {
 
 .tm-gallery-title {
   font-size: 1.30rem;
-  font-weight: 500;
+  font-weight: bold;
   color: #B0733D;
   margin-bottom: 15px;
 }
@@ -413,7 +413,7 @@ p, address {
 .tm-gallery-price {
   font-size: 1.25rem;
   color: #B0733D;
-  font-weight: 500;
+  font-weight: bold;
   margin-bottom: 60px;
 }
 
