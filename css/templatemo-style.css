@@ -330,6 +330,7 @@ p, address {
   font-size: 2rem;
   font-weight: 400;
   margin-bottom: 30px;
+  color : #D2B885
 }
 
 .tm-gallery {
@@ -401,7 +402,7 @@ p, address {
 .tm-gallery-title {
   font-size: 1.60rem;
   font-weight: 500;
-  color: #512B10;
+  color: #D2B885;
   margin-bottom: 15px;
 }
 
@@ -411,7 +412,7 @@ p, address {
 
 .tm-gallery-price {
   font-size: 1.50rem;
-  color: #4F290E;
+  color: #D2B885;
   font-weight: bold;
   margin-bottom: 60px;
 }
