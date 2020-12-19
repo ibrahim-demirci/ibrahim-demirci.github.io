@@ -129,6 +129,15 @@ html {
   border: 0;
 }
 
+
+.video{
+ 
+ padding-right: 15px;
+ padding-left: 15px;
+ 
+ 
+}
+
 .tm-btn-default {
   border: 1px solid #ccc;
   background-color: transparent;
