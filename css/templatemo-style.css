@@ -399,9 +399,9 @@ p, address {
 }
 
 .tm-gallery-title {
-  font-size: 1.3rem;
-  font-weight: 400;
-  color: #D5BC8C;
+  font-size: 1.60rem;
+  font-weight: 500;
+  color: #512B10;
   margin-bottom: 15px;
 }
 
@@ -410,8 +410,9 @@ p, address {
 }
 
 .tm-gallery-price {
-  font-size: 1.25rem;
-  color: #D5BC8C;
+  font-size: 1.50rem;
+  color: #512B10;
+  font-weight: bold;
   margin-bottom: 60px;
 }
 
