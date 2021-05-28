@@ -106,6 +106,8 @@ p {
   color: #646F87;
   margin: 0px; }
 
+
+
 .bg_cover {
   background-position: center center;
   background-size: cover;
@@ -1019,6 +1021,8 @@ p {
     .single_service:hover .service_content .service_title a {
       color: #fff; }
     .single_service:hover .service_content p {
+      color: #fff; }
+    .single_service:hover .service_content ul {
       color: #fff; }
 
 /*===========================
