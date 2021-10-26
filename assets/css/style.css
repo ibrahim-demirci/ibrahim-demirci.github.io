@@ -994,7 +994,7 @@ p {
         font-size: 36px; } }
   .single_service .service_content {
     margin-top: 25px; }
-    .single_service .service_content .service_title a {
+    .single_service .service_content .service_title p {
       font-size: 22px;
       font-weight: 600;
       color: #293651;
@@ -1018,7 +1018,7 @@ p {
     .single_service:hover .service_icon i {
       background-color: #fff;
       color: #3A4257; }
-    .single_service:hover .service_content .service_title a {
+    .single_service:hover .service_content .service_title a{
       color: #fff; }
     .single_service:hover .service_content p {
       color: #fff; }
