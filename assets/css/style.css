@@ -910,8 +910,8 @@ p {
 .skill_item .skill_header {
   position: relative; }
   .skill_item .skill_header .skill_title {
-    font-size: 14px;
-    font-weight: 500; }
+    font-size: 18px;
+    font-weight: 600; }
   .skill_item .skill_header .skill_percentage {
     position: absolute;
     top: -3px;
